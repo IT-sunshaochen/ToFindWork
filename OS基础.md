@@ -2,7 +2,7 @@
  * @Author: sunshaochen 805960031@qq.com
  * @Date: 2022-11-01 09:38:10
  * @LastEditors: sunshaochen 805960031@qq.com
- * @LastEditTime: 2022-11-01 14:24:37
+ * @LastEditTime: 2022-11-01 14:25:45
  * @FilePath: \ToFindWork\OS基础.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -43,3 +43,4 @@
 
 
 进程之间的通信方式有：无名管道( pipe )、高级管道（popen）、有名管道（named pipe）、消息队列( message queue )、信号量( semophore ) 、信号 ( sinal ) 、共享内存( shared memory ) 、套接字( socket )。
+线程通信是管道和消息队列MQ
